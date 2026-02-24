@@ -1,0 +1,9 @@
+{
+  "rules": {
+    ".read": true,  // Allows anyone to read the data
+    ".write": true,  // Allows anyone to write data
+    // "ppm_data": {
+    //   ".indexOn": ["date"]
+    // }
+  }
+}
