@@ -52,3 +52,7 @@ The application is built around two primary analytical dashboards powered by `fl
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/Harigovind04/Equatorial-Space-Weather-Application-for-Ionospheric-Research.git
+
+2. **Add your own google-services.json to android/app/.**
+
+3. **Run flutter pub get and flutter run.**
