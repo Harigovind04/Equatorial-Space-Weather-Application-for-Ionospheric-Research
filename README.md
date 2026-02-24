@@ -25,7 +25,7 @@ ESWAR is an award-winning, mobile-first edge AI application designed to predict 
 * Data is pushed to a **Firebase Realtime Database** and instantly synced to the Flutter client, ensuring scientists have minute-by-minute updates.
 
 ### 3. Global API Telemetry
-* Interfaces with **NASA OMNIWeb** utilizing asynchronous REST APIs (`dio`, `http`) to fetch surrounding interplanetary parameters (IMF, IMF-Bz, By, Bx, SymH).
+* Interfaces with **NASA OMNIWeb** utilizing asynchronous REST APIs (`dio`) to fetch surrounding interplanetary parameters (IMF, IMF-Bz, By, Bx, SymH).
 
 ## The User Interface (Analytical Panels)
 
