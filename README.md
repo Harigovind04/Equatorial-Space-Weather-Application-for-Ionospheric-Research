@@ -55,4 +55,4 @@ The application is built around two primary analytical dashboards powered by `fl
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Harigovind04/Equatorial-Space-Weather-Application-for-Ionospheric-Research.git](https://github.com/Harigovind04/Equatorial-Space-Weather-Application-for-Ionospheric-Research.git)
+   git clone https://github.com/Harigovind04/Equatorial-Space-Weather-Application-for-Ionospheric-Research.git
